@@ -14,6 +14,6 @@ public class Student {
     public String getNgaySinh() { return ngaySinh; }
 
     public void hienThi() {
-        System.out.println("Ma SV: " + maSV + " | Ho ten: " + hoTen + " | Ngay sinh: " + ngaySinh);
+        System.out.println("[Feature] Ma SV: " + maSV + " | Ho ten: " + hoTen + " | Ngay sinh: " + ngaySinh);
     }
 }
